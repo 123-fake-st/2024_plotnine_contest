@@ -1,0 +1,8 @@
+Day,Low,High,Conditions
+Today,0,20,Snow
+Mon,20,40,Heavy rain
+Tue,40,60,Cloudy
+Wed,60,80,Thunderstorm
+Thu,80,100,Sunny
+Fri,-10,10,Cold
+Sat,90,110,Hot
